@@ -25,17 +25,13 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
+@Tn_linkZz || @Tnrockers2021
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
-    
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
-
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
-
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+🚩 Name :  Auto Filter V3 
+🚩 Creator : [Rubandurai27](t.me/rubandurai27)
+🚩 Language : Python3
+🚩 Library : Pyrogram Asyncio 1.13.0
+🚩 Tutorial : [Click Me](t.me/tnrockers2)
 """
