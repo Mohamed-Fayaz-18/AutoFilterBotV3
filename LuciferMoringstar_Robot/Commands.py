@@ -49,10 +49,10 @@ async def start(bot, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("📢 Join Updates Channel 📢", url=invite_link.invite_link)
+                                InlineKeyboardButton("📢 𝗝𝗢𝗜𝗡 𝗠𝗬 𝗨𝗣𝗗𝗔𝗧𝗘 𝗖𝗛𝗔𝗡𝗡𝗘𝗟📢", url=invite_link.invite_link)
                             ],
                             [
-                                InlineKeyboardButton("🔄 Try Again", callback_data=f"checksub#{file_id}")
+                                InlineKeyboardButton("� 𝗧𝗥𝗬 𝗔𝗚𝗔𝗜𝗡", callback_data=f"checksub#{file_id}")
                             ]
                         ]
                     ),
@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('Main Channel', url='t.me/tn_linkZz')
+                        InlineKeyboardButton('BOTS CHANNEL', url='t.me/KOT_BOTS')
                     ]
                     ]
                 await bot.send_cached_media(
@@ -331,7 +331,7 @@ async def bot_info(bot, message):
     buttons = [
         [
             
-            InlineKeyboardButton('Main Channel', url='t.me/tnrockers2021')
+            InlineKeyboardButton('BOTS CHANNEL', url='t.me/KOT_BOTS')
         ]
         ]
     await message.reply(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
