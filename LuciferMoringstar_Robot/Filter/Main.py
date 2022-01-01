@@ -277,7 +277,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "help":
             buttons = [
                 [
-                    InlineKeyboardButton('Update Channel', url='t.me/TN_linkZz')
+                    InlineKeyboardButton('Update Channel', url='t.me/KING_OF_THE_CARTOONS_CHANNEL')
                 ]
                 ]
             await query.message.edit(text=f"{HELP}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -285,7 +285,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         elif query.data == "about":
             buttons = [
                 [
-                    InlineKeyboardButton('Main Channel', url='t.me/tnrockers2021')
+                    InlineKeyboardButton('Main Channel', url='t.me/KOT_BOTS')
                 ]
                 ]
             await query.message.edit(text=f"{ABOUT}", reply_markup=InlineKeyboardMarkup(buttons), disable_web_page_preview=True)
@@ -308,7 +308,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('Main Channel', url='t.me/tnrockers2021')
+                        InlineKeyboardButton('Main Channel', url='t.me/KOT_BOTS')
                     ]
                     ]
                 
@@ -339,7 +339,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     f_caption = f"{title}"
                 buttons = [
                     [
-                        InlineKeyboardButton('Main Channel', url='t.me/tnrockers2021')
+                        InlineKeyboardButton('Main Channel', url='t.me/KOT_BOTS')
                     ]
                     ]
                 
