@@ -29,9 +29,41 @@ Bot Owner Only
 """
 
 ABOUT = """
-🚩 Name :  Auto Filter V3 
-🚩 Creator : [Rubandurai27](t.me/rubandurai27)
-🚩 Language : Python3
-🚩 Library : Pyrogram Asyncio 1.13.0
-🚩 Tutorial : [Click Me](t.me/tnrockers2)
+╭──────[@KOT_BOTS]───────〄
+
+│
+
+├ Nᴀᴍᴇ : <a href='https://t.me/KOT_MOVIES_FILTER_V2_BOT'>Tʜᴀʟᴀᴘᴀᴛʜʏ Vɪᴊᴀʏ 𝗩𝟮</a>
+
+│
+
+├ Sᴇʀᴠᴇʀ : <a href='https://heroku.com/'>Hᴇʀᴏᴋᴜ</a>
+
+│ 
+
+├ Lᴀɴɢᴜᴀɢᴇ : <a href='https://docs.pyrogram.org/'>Pʏᴛʜᴏɴ 3.9.6</a>
+
+│
+
+├ Vᴇʀꜱɪᴏɴ : <a href='https://t.me/KOT_MOVIES_FILTER_V2_BOT'>1.5.0 Bᴇᴛᴀ</a>
+
+│
+
+├ Fʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ 1.2.9</a>
+
+│
+
+├ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/KOT_FREE_DE_LA_HOYA_OFF'>✯°• Kᴏᴛ Fʀᴇᴇ Dᴇ Lᴀ Hᴏʏᴀ Oғғ °•✯ | ✪ Bᴏᴛs CʀᴇᴀᴛᴏR ✪</a>
+
+│
+
+├ Pᴏᴡᴇʀᴇᴅ Bʏ : <a href='https://t.me/KOT_LINKS_TEAM'>Kᴏᴛ Lɪɴᴋs Tᴇᴀᴍ</a>
+
+│
+
+├ Uᴘᴅᴀᴛᴇᴅ Oɴ : [ 18.11.2021 ] 06:39 PM
+
+
+
+
 """
